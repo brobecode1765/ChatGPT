@@ -1,0 +1,25 @@
+{
+  "name": "chatgpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind": "npx tailwindcss -i ./static/index.css -o ./static/css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brobecode1765/ChatGPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/brobecode1765/ChatGPT/issues"
+  },
+  "homepage": "https://github.com/brobecode1765/ChatGPT#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.19"
+  }
+}
